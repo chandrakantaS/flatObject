@@ -1,4 +1,4 @@
-module.exports = class JoinHierarchy {
+module.exports = class Flattern {
   constructor(obj) {
     this.x = {};
     this.joinKeys(obj);

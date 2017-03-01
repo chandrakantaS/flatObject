@@ -3,8 +3,7 @@ const items = {
     firstName: 'Adil',
     someMore: 'Else'
   },
-  experiences: [
-    {
+  experiences: [{
       company: 'Edunuts',
       profile: 'Developer'
     }, {
@@ -42,8 +41,7 @@ const items = {
           ]
         }
       }
-    }
-  ],
+    }],
   somemore: {
     ex: 'ex',
     1: 'fds',
