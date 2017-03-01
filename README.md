@@ -1,2 +1,2 @@
 # hierarchy
-Simplifies a nested JSON
+Simplifies a nested JSON (Flatterns an object)
