@@ -54,8 +54,8 @@ const items = {
   }
 };
 
-const h = require('./index');
+const h = require('./index1');
 
-const newObj = new h(items);
+const newObj = h(items);
 
 console.log(newObj);
