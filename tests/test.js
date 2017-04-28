@@ -54,7 +54,7 @@ const items = {
   }
 };
 
-const h = require('./index1');
+const h = require('../lib/index1');
 
 const newObj = h(items);
 

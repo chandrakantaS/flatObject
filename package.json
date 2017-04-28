@@ -1,0 +1,25 @@
+{
+  "name": "flat_object",
+  "version": "1.0.0",
+  "description": "Flatterns an object",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckoo7/flatObject.git"
+  },
+  "keywords": [
+    "flatObject"
+  ],
+  "author": "Chandrakanta Shatapathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckoo7/flatObject/issues"
+  },
+  "homepage": "https://github.com/ckoo7/flatObject#readme"
+}
